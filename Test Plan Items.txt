@@ -1,0 +1,12 @@
+1:
+    * Image width stays consistent
+    * Links are spaced correctly
+    * Copyright symbol renders
+    * Font fills the parent element's width
+    * Body does not scale with the window size
+    * Links highlight green correctly
+    * First heading's first letter is larger than others
+    * Links open correctly
+    * Background fills entire page
+    * UL needs overflow:hidden to fill "float" space and not have points overlap floated element
+    * Do elements align correctly on smaller screens?

@@ -1,0 +1,23 @@
+nav {
+    padding: 0;
+    margin: 0;
+}
+nav ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+@media screen and (max-width: 550px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 0.2em 0;
+    }
+}
