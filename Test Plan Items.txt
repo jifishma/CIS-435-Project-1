@@ -10,3 +10,4 @@
     * Background fills entire page
     * UL needs overflow:hidden to fill "float" space and not have points overlap floated element
     * Do elements align correctly on smaller screens?
+    * When body size is larger than window, can the body's shadows still be seen on the sides?
